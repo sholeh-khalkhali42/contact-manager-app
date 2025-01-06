@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "fullname": "sholeh khalkhal",
+      "photo": "../public/images/1.jpg",
+      "mobile": "09150014838",
+      "email": "sholeh@khalkhali",
+      "job": "برنامه نویس",
+      "group": "1",
+      "id": 2
+    },
+    {
+      "fullname": "mones ghorbani",
+      "photo":"../public/images/2.jpg",
+      "mobile": "09368889985",
+      "email": "mounes.gh@chmail.ir",
+      "job": "برنامه نویس",
+      "group": "1",
+      "id": 3
+    },
+    {
+      "fullname": "سجاد باقرزاده",
+      "photo": "../public/images/3.jpg",
+      "mobile": "09115478987",
+      "email": "sajjad@bagherzade.com",
+      "job": "programing",
+      "group": "2",
+      "id": 4
+    }
+  ],
+  
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "آشنا"
+    }
+  ]
+}
