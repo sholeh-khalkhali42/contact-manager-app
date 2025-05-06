@@ -1,3 +1,9 @@
+Contact Manager App
+A simple contact management application built using React. This project allows users to create,
+view, and delete contacts from a list with a user-friendly interface.
+Features
+- Add ne
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -58,6 +64,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
+
+
+Contact
+Email: sholehkhalkhali100@gmail.com
+LinkedIn: https://www.linkedin.com/in/sholeh-khalkhali
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
