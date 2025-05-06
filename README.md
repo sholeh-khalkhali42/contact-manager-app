@@ -1,9 +1,13 @@
-Contact Manager App
-A simple contact management application built using React. This project allows users to create,
-view, and delete contacts from a list with a user-friendly interface.
+#Blog with React & Redux Toolkit
+A simple blog application built using React, Redux Toolkit, and Tailwind CSS. This project allows
+users to add, update, and delete blog posts with a smooth UI and clean code structure.
 Features
-- Add ne
-
+- Add new blog posts
+- Edit and update existing posts
+- Delete blog posts
+- Responsive design
+- Centralized state management with Redux Toolkit
+- Clean component structure
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
